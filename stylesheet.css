@@ -1,0 +1,87 @@
+html{
+  font-family: serif;
+  background-attachment: fixed;
+  margin:0px;
+  padding:0px;
+  background-image:url("mokume.jpg")
+}
+.container{
+  width:450px;
+  height:auto;
+  background-color:rgba(0, 0, 0, 0.609);
+  margin:auto;
+  padding:0px;
+  border-right:solid;
+  border-left:solid;
+}
+
+.topw{
+  padding-left:5px;
+  color:rgba(225, 225, 225, 0.9);
+  font-size:35px;
+}
+
+header img{
+  height:300px;
+  width:450px;
+}
+
+
+.main p{
+  font-size:35px;
+  color: rgba(225, 225, 225, 0.9);
+  margin-bottom: 0px;
+  margin-left:10px;
+}
+
+.main-contents{
+  margin-bottom:75px;
+}
+.main-contents a{
+  font-size:30px;
+  color:rgba(225, 225, 225, 0.9);
+  text-align:center;
+  margin:0 25px;
+  box-shadow:6px 6px;
+  box-shadow:rgba(225, 225, 225, 0.9);
+  display:block;
+}
+
+.main-contents a:hover{
+  box-shadow:none;
+  position:relative;
+  right:-5px;
+  bottom:-5px;
+}
+
+.SNS img{
+  height:50px;
+  width:auto;
+  display:block;
+  margin:auto
+}
+.SNS p{
+  color: rgba(225, 225, 225, 0.9);
+  text-align:center;
+  margin-bottom:15px;
+}
+footer{
+  text-align:center;
+  color:white;
+  
+}
+
+.gyara a{
+  color:rgba(225, 225, 225, 0.9);
+  font-size:20px;
+}
+.gyara a:hover{
+  color:yellowgreen;
+}
+.gyara li{
+  color:rgba(225, 225, 225, 0.9);
+  font-size:20px;
+}
+.gyara li:hover{
+  color:yellowgreen;
+}
